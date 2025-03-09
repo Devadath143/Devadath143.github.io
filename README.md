@@ -108,7 +108,6 @@
         <p>
             - Participated in **dramas and skits** from a young age, earning various **awards**. <br>
             - Deep interest in **scriptwriting and direction**, crafting engaging performances. <br>
-            - Working as a **Civil Engineer** at a reputed government organization.
         </p>
     </section>
     <!-- Hobbies Section -->

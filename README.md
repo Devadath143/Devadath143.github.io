@@ -98,7 +98,7 @@
     <section>
         <h2>About Me</h2>
         <p>
-            I am <strong>Devadath Bijukumar</strong>, a Civil Engineering graduate currently working at the <strong>Central Water Commission, Kochi</strong>.  
+            I am <strong>Devadath Bijukumar</strong>, a Civil Engineering graduate
             My passion lies in <strong>scriptwriting, direction, and acting</strong>. From childhood, I have actively participated in numerous dramas and skits, winning several awards.  
         </p>
     </section>
